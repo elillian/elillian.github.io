@@ -1,2 +1,2 @@
 # elillian.github.io
-Successful Dog Training via Positive Reinforcement 
+The Pros and cons of adopting a dog
