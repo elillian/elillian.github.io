@@ -1,2 +1,2 @@
 # elillian.github.io
-The Pros and cons of adopting a dog
+How to prepare for a new dog in your life
