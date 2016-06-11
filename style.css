@@ -1,0 +1,38 @@
+
+
+#header {
+    background-color: black;
+    color: white;
+    text-align:center;
+    padding:5px;
+    font-family: Times;
+}
+
+#footer {
+    background-color: black;
+    color:white;
+    clear:both;
+    text-align:center;
+    padding:5px; 
+    font-family: impact;
+}
+
+#img {
+   padding:2px;
+   border:2px solid #021a40;
+   text-align: center;
+
+}
+
+#p1 {
+    margin-top: 2px;
+   
+}
+
+a:visited {
+    color: hotpink;
+}
+
+.p {
+    text-align: center;
+    color: black;
