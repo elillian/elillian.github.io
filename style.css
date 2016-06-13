@@ -1,11 +1,10 @@
-
-
 #header {
     background-color: black;
     color: white;
     text-align:center;
     padding:5px;
     font-family: Times;
+    font-size: 100%;
 }
 
 #footer {
@@ -33,6 +32,26 @@ a:visited {
     color: hotpink;
 }
 
-.p {
-    text-align: center;
-    color: black;
+.center {
+	text-align: center;  
+}
+
+.body {
+	font-style: Times;
+}
+
+.p5 {
+	text-align: center;
+}
+
+.p7 {
+	text-align: center;
+}
+
+<style>
+@media (max-width: 580px) {
+  .facet_sidebar {
+    display: none;
+  }
+}
+</style>
